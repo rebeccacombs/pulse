@@ -5,8 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Useful commands
 ### Running web servers
+
 - `ng serve --open` 
 - `ng build --configuration=production`
+
 Navigate to `http://localhost:4200/`.
 
 ### Running app servers 
