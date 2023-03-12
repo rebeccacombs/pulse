@@ -3,10 +3,10 @@ import { Camera, CameraResultType, CameraSource } from '@capacitor/camera';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: '../views/dashboard.component.html',
+  styleUrls: ['../css/app.component.css']
 })
-export class AppComponent {
+export class DashComponent {
   title = 'pulse';
   image = ''; 
 
